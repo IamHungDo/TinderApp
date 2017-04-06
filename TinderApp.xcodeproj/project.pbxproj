@@ -12,6 +12,7 @@
 		9E0C23921E95D1FC007C2C72 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9E0C23901E95D1FC007C2C72 /* Main.storyboard */; };
 		9E0C23941E95D1FC007C2C72 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9E0C23931E95D1FC007C2C72 /* Assets.xcassets */; };
 		9E0C23971E95D1FC007C2C72 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9E0C23951E95D1FC007C2C72 /* LaunchScreen.storyboard */; };
+		9E0C239F1E95D246007C2C72 /* CardsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E0C239E1E95D246007C2C72 /* CardsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		9E0C23931E95D1FC007C2C72 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9E0C23961E95D1FC007C2C72 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9E0C23981E95D1FC007C2C72 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9E0C239E1E95D246007C2C72 /* CardsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CardsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				9E0C238C1E95D1FC007C2C72 /* AppDelegate.swift */,
 				9E0C238E1E95D1FC007C2C72 /* ViewController.swift */,
 				9E0C23901E95D1FC007C2C72 /* Main.storyboard */,
+				9E0C239E1E95D246007C2C72 /* CardsViewController.swift */,
 				9E0C23931E95D1FC007C2C72 /* Assets.xcassets */,
 				9E0C23951E95D1FC007C2C72 /* LaunchScreen.storyboard */,
 				9E0C23981E95D1FC007C2C72 /* Info.plist */,
@@ -139,6 +142,7 @@
 			files = (
 				9E0C238F1E95D1FC007C2C72 /* ViewController.swift in Sources */,
 				9E0C238D1E95D1FC007C2C72 /* AppDelegate.swift in Sources */,
+				9E0C239F1E95D246007C2C72 /* CardsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
